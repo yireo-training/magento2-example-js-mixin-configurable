@@ -4,7 +4,7 @@ Example Magento 2 module showing how to use a mixin to overwrite `Magento_Config
 ## Installation
 To install use the following composer command:
 
-    composer require yireo-training/magento2-example-js-mixin-configurable
+    composer require yireo-training/magento2-example-js-mixin-configurable:dev-master
 
 Next enable the module:
 
